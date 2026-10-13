@@ -71,4 +71,4 @@ go run main.go --port 9001 --same_string xyz --room myroom --nick Aaradhya
 ```
 - Start communicating by sending messages by writing through terminal or though the frontend Ui.
 
-Created by - [Abhinav Jha](https://x.com/AbhinavXJ)
+Created by - Shailendra Rajoriya
